@@ -13,7 +13,7 @@ function Body4() {
                     <div className='sub-parent-container-1 flex flex-col md:justify-center md:text-left w-[50%] min-w-[400px] py-[10%] items-center text-center'>
                         <p className='text-[30px] font-extrabold w-[80%] mb-4 leading-[45px] text-indigo-600'>Save time & money with exclusive offers from top stores</p>
                         <div className='w-[80%]'>
-                            <a href="#home" onClick={(e)=>handleClick(e,'#download')}><button className='bg-indigo-800 p-2 px-3 w-[80%] rounded-md text-white mt-3 font-semibold'>Download App</button></a>
+                            <a href="#home" onClick={(e)=>handleClick(e,'#home')}><button className='bg-indigo-800 p-2 px-3 w-[80%] rounded-md text-white mt-3 font-semibold'>Download App</button></a>
                         </div>
                     </div>
                     <div className='sub-parent-container-2 w-[30%] min-w-[250px] flex justify-center relative'>
